@@ -1,5 +1,5 @@
 # Uber Completion Stauts Machine Learning Project 
-By: Praneel Murthy, Yousif Alkharraz(https://www.linkedin.com/in/yousif-alkharraz/), Ryan Hursh (https://www.linkedin.com/in/ryanhursh-/) 
+By: [Praneel Murthy](https://www.linkedin.com/in/praneel-murthy/), [Yousif Alkharraz](https://www.linkedin.com/in/yousif-alkharraz/), [Ryan Hursh](https://www.linkedin.com/in/ryanhursh-/) 
 
 ## Data Story
 # Abstract:
